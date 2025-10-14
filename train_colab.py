@@ -17,7 +17,7 @@ from albumentations.pytorch import ToTensorV2
 import segmentation_models_pytorch as smp
 from datasets import load_dataset
 
-drive_folder = "/content/drive/MyDrive/Colab Notebooks/Unet++_Bober"
+drive_folder = "/content/drive/MyDrive/Colab Notebooks/Unet++"
 
 
 # ==========================================================
