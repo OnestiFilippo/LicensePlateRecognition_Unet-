@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
     To run inference on a dataset of images, use:
     ```bash
-    python inference_ds.py --input_dir path/to/your/images --output_dir output/
+    python inference_ds.py
     ```
 
 ## Pre-trained Models
